@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+header{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+}
+header ul li{
+    margin: 25px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+
+header img{
+    width: 120px;
+}
+
+body{
+    background-color: #8d6e51;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.contenedor{
+    display: flex; 
+    flex-direction: column;
+    width: 100%;
+    background-color: #808f56;
+    border-style: solid; color: white;
+    border-width: 5px 5px;
+}
+
+
+.caja{
+    width: 100%;
+    height: 100%;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja img{
+    border-radius: 50%;
+}
+
+.nombre{
+    font-size: 25px;
+}
+
+.eilish{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.parrafobillie{
+    margin: 60px;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.nombrestarset{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px;
+}
+
+.caja2{
+    width: 100%;
+    height: 100%;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parrafostarset{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    margin: 60px;
+}
+.caja2 img{
+    border-radius: 50%;
+}
+.nombrelinkin{
+    font-family: 'Roboto Slab', serif;
+}
+.parrafolinkin{
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    margin: 60px;
+}
+.caja3{
+    width: 100%;
+    height: 100%;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.caja3 img{
+    border-radius: 50%;
+}
+.contenedor2{
+    display: flex; 
+    flex-direction: column;
+    width: 100%;
+    background-color: #808f56;
+    border-style: solid; color: white;
+    border-width: 5px 5px;
+}
+.contenedor3{
+    display: flex; 
+    flex-direction: column;
+    width: 100%;
+    background-color: #808f56;
+    border-style: solid; color: white;
+    border-width: 5px 5px;
+}
+audio{
+    width: 50%;
+}
